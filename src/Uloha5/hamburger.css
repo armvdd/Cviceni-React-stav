@@ -37,3 +37,11 @@
 .hamburger--otevrene span:nth-child(3) {
 	transform: rotate(-45deg);
 }
+
+.ul--hidden{
+	display: none;
+}
+
+.ul--visible{
+	display: block;
+}

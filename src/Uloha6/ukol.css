@@ -14,3 +14,11 @@
 .ukol--splnen .ukol__nazev {
 	text-decoration: line-through;
 }
+
+.btn--hidden{
+	display: none;
+}
+
+.ukol__akce{
+	display: block;
+}
